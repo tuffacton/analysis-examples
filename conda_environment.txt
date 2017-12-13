@@ -1,0 +1,248 @@
+# packages in environment at /Users/nacton/anaconda3:
+#
+_license                  1.1                      py36_1  
+alabaster                 0.7.10                   py36_0  
+altair                    1.3.0.dev0                <pip>
+anaconda                  custom                   py36_0  
+anaconda-client           1.6.3                    py36_0  
+anaconda-navigator        1.6.2                    py36_0  
+anaconda-project          0.6.0                    py36_0  
+appnope                   0.1.0                    py36_0  
+appscript                 1.0.1                    py36_0  
+asn1crypto                0.22.0                   py36_0  
+astroid                   1.4.9                    py36_0  
+astropy                   2.0.2               np113py36_1    conda-forge
+babel                     2.4.0                    py36_0  
+backports                 1.0                      py36_0  
+basemap                   1.1.0                    py36_2    conda-forge
+beautifulsoup4            4.6.0                    py36_0  
+bitarray                  0.8.1                    py36_0  
+blas                      1.1                    openblas    conda-forge
+blaze                     0.10.1                   py36_0  
+bleach                    1.5.0                    py36_0  
+bokeh                     0.12.5                   py36_1  
+boost                     1.64.0                   py36_4    conda-forge
+boost-cpp                 1.64.0                        1    conda-forge
+boto                      2.46.1                   py36_0  
+bottleneck                1.2.1                    py36_1    conda-forge
+bzip2                     1.0.6                         1    conda-forge
+cairo                     1.14.6                        4    conda-forge
+cffi                      1.10.0                   py36_0  
+chardet                   3.0.3                    py36_0  
+click                     6.7                      py36_0  
+click-plugins             1.0.3                    py36_0    conda-forge
+cligj                     0.4.0                    py36_0    conda-forge
+cloudpickle               0.2.2                    py36_0  
+clyent                    1.2.2                    py36_0  
+colorama                  0.3.9                    py36_0  
+conda                     4.3.29                   py36_0    conda-forge
+conda-env                 2.6.0                         0    conda-forge
+configurable-http-proxy   2.0.4                         0    conda-forge
+contextlib2               0.5.5                    py36_0  
+cryptography              1.8.1                    py36_0  
+curl                      7.52.1                        0  
+cycler                    0.10.0                   py36_0  
+cython                    0.25.2                   py36_0  
+cytoolz                   0.8.2                    py36_0  
+dask                      0.14.3                   py36_1  
+dask-core                 0.15.4                     py_0    conda-forge
+datashape                 0.5.4                    py36_0  
+decorator                 4.0.11                   py36_0  
+descartes                 1.1.0                    py36_0    conda-forge
+distributed               1.16.3                   py36_0  
+docutils                  0.13.1                   py36_0  
+entrypoints               0.2.2                    py36_1  
+et_xmlfile                1.0.1                    py36_0  
+expat                     2.1.0                         3    conda-forge
+fastcache                 1.0.2                    py36_1  
+fiona                     1.7.9                    py36_1    conda-forge
+flask                     0.12.2                   py36_0  
+flask-cors                3.0.2                    py36_0  
+fontconfig                2.12.1                        4    conda-forge
+freetype                  2.7                           1    conda-forge
+freexl                    1.0.2                         2    conda-forge
+gdal                      2.1.3                    py36_5    conda-forge
+geopandas                 0.3.0                    py36_0    conda-forge
+geos                      3.5.1                         1    conda-forge
+get_terminal_size         1.0.0                    py36_0  
+gettext                   0.19.8.1                      0    conda-forge
+gevent                    1.2.1                    py36_0  
+giflib                    5.1.4                         0    conda-forge
+glib                      2.51.4                        0    conda-forge
+greenlet                  0.4.12                   py36_0  
+h5py                      2.7.1                    py36_1    conda-forge
+hdf4                      4.2.12                        0    conda-forge
+hdf5                      1.8.18                        1    conda-forge
+heapdict                  1.0.0                    py36_1  
+html5lib                  0.999                    py36_0  
+icu                       58.1                          1    conda-forge
+idna                      2.5                      py36_0  
+imageio                   2.2.0                    py36_0    conda-forge
+imagesize                 0.7.1                    py36_0  
+ipykernel                 4.6.1                    py36_0    anaconda
+ipython                   5.3.0                    py36_0  
+ipython_genutils          0.2.0                    py36_0  
+ipywidgets                6.0.0                    py36_0  
+isort                     4.2.5                    py36_0  
+itsdangerous              0.24                     py36_0  
+jbig                      2.1                           0  
+jdcal                     1.3                      py36_0  
+jedi                      0.10.2                   py36_2  
+jinja2                    2.9.6                    py36_0  
+jpeg                      9b                            1    conda-forge
+json-c                    0.12.1                        0    conda-forge
+jsonschema                2.6.0                    py36_0  
+jupyter                   1.0.0                    py36_3  
+jupyter_client            5.0.1                    py36_0  
+jupyter_console           5.1.0                    py36_0  
+jupyter_core              4.3.0                    py36_0  
+jupyterhub                0.7.2                    py36_0    conda-forge
+jupyterlab                0.27.0                   py36_1    conda-forge
+jupyterlab_launcher       0.4.2                    py36_0    conda-forge
+kealib                    1.4.7                         2    conda-forge
+lazy-object-proxy         1.2.2                    py36_0  
+libdap4                   3.18.3                        2    conda-forge
+libffi                    3.2.1                         3    conda-forge
+libgdal                   2.2.2                         2    conda-forge
+libgfortran               3.0.0                         0    conda-forge
+libiconv                  1.14                          0  
+libkml                    1.3.0                         1    conda-forge
+libnetcdf                 4.4.1.1                       6    conda-forge
+libpng                    1.6.28                        1    conda-forge
+libpq                     9.6.3                         0    conda-forge
+libspatialindex           1.8.5                         1    conda-forge
+libspatialite             4.3.0a                       14    conda-forge
+libtiff                   4.0.6                         3  
+libxml2                   2.9.4                         0  
+libxslt                   1.1.29                        0  
+llvmlite                  0.20.0                   py36_0  
+locket                    0.2.0                    py36_1  
+lxml                      3.7.3                    py36_0  
+markupsafe                0.23                     py36_2  
+matplotlib                2.0.2                    py36_2    conda-forge
+mistune                   0.7.4                    py36_0  
+mkl                       2017.0.1                      0  
+mkl-service               1.1.2                    py36_3  
+mpmath                    0.19                     py36_1  
+msgpack-python            0.4.8                    py36_0  
+multipledispatch          0.4.9                    py36_0  
+munch                     2.2.0                    py36_0    conda-forge
+navigator-updater         0.1.0                    py36_0  
+nbconvert                 5.1.1                    py36_0  
+nbformat                  4.3.0                    py36_0  
+networkx                  1.11                     py36_0  
+nltk                      3.2.3                    py36_0  
+nodejs                    6.11.0                        0    conda-forge
+nose                      1.3.7                    py36_1  
+notebook                  5.0.0                    py36_0  
+numba                     0.35.0              np113py36_0  
+numexpr                   2.6.4                    py36_0    conda-forge
+numpy                     1.13.3          py36_blas_openblas_200  [blas_openblas]  conda-forge
+numpydoc                  0.6.0                    py36_0  
+odo                       0.5.0                    py36_1  
+olefile                   0.44                     py36_0  
+openblas                  0.2.19                        2    conda-forge
+openjpeg                  2.1.2                         2    conda-forge
+openpyxl                  2.4.7                    py36_0  
+openssl                   1.0.2l                        0  
+packaging                 16.8                     py36_0  
+pamela                    0.3.0                    py36_0    conda-forge
+pandas                    0.20.3                   py36_1    conda-forge
+pandoc                    1.19.2.1                      0  
+pandocfilters             1.4.1                    py36_0  
+partd                     0.3.8                    py36_0  
+path.py                   10.3.1                   py36_0  
+pathlib2                  2.2.1                    py36_0  
+patsy                     0.4.1                    py36_0  
+pcre                      8.39                          0    conda-forge
+pep8                      1.7.0                    py36_0  
+pexpect                   4.2.1                    py36_0  
+pickleshare               0.7.4                    py36_0  
+pillow                    4.2.1                    py36_1    conda-forge
+pip                       9.0.1                    py36_1  
+pixman                    0.34.0                        0    conda-forge
+plotly                    2.2.0                    py36_0    conda-forge
+ply                       3.10                     py36_0  
+poppler                   0.52.0                        2    conda-forge
+poppler-data              0.4.7                         0    conda-forge
+proj4                     4.9.3                         4    conda-forge
+prompt_toolkit            1.0.14                   py36_0  
+psutil                    5.2.2                    py36_0  
+psycopg2                  2.7.3.1                  py36_0    conda-forge
+ptyprocess                0.5.1                    py36_0  
+py                        1.4.33                   py36_0  
+pycosat                   0.6.2                    py36_0  
+pycparser                 2.17                     py36_0  
+pycrypto                  2.6.1                    py36_6  
+pycurl                    7.43.0                   py36_2  
+pyflakes                  1.5.0                    py36_0  
+pygments                  2.2.0                    py36_0  
+pylint                    1.6.4                    py36_1  
+pyodbc                    4.0.16                   py36_0  
+pyopenssl                 17.0.0                   py36_0  
+pyparsing                 2.1.4                    py36_0  
+pyproj                    1.9.5.1                  py36_0    conda-forge
+pyqt                      5.6.0                    py36_1  
+pysal                     1.13.0                   py36_0    conda-forge
+pyshp                     1.2.12                     py_0    conda-forge
+pytables                  3.4.2                    py36_5    conda-forge
+pytest                    3.0.7                    py36_0  
+python                    3.6.1                         2  
+python-dateutil           2.6.0                    py36_0  
+python.app                1.2                      py36_4  
+pytz                      2017.2                   py36_0  
+pywavelets                0.5.2               np113py36_0    conda-forge
+pyyaml                    3.12                     py36_0  
+pyzmq                     16.0.2                   py36_0  
+qt                        5.6.2                h9e3eb04_4    conda-forge
+qtawesome                 0.4.4                    py36_0  
+qtconsole                 4.3.0                    py36_0  
+qtpy                      1.2.1                    py36_0  
+readline                  6.2                           2  
+requests                  2.14.2                   py36_0  
+rope                      0.9.4                    py36_1  
+rtree                     0.8.3                    py36_0    conda-forge
+ruamel_yaml               0.11.14                  py36_1  
+scikit-image              0.13.0                   py36_2    conda-forge
+scikit-learn              0.19.0          py36_blas_openblas_201  [blas_openblas]  conda-forge
+scipy                     0.19.1          py36_blas_openblas_202  [blas_openblas]  conda-forge
+seaborn                   0.7.1                    py36_0  
+setuptools                27.2.0                   py36_0  
+shapely                   1.6.1                    py36_1    conda-forge
+simplegeneric             0.8.1                    py36_1  
+singledispatch            3.4.0.3                  py36_0  
+sip                       4.18                     py36_0  
+six                       1.10.0                   py36_0  
+snowballstemmer           1.2.1                    py36_0  
+sortedcollections         0.5.3                    py36_0  
+sortedcontainers          1.5.7                    py36_0  
+sphinx                    1.5.6                    py36_0  
+spyder                    3.1.4                    py36_0  
+sqlalchemy                1.1.9                    py36_0  
+sqlite                    3.13.0                        0  
+statsmodels               0.8.0                    py36_0    conda-forge
+sympy                     1.0                      py36_0  
+tblib                     1.3.2                    py36_0  
+terminado                 0.6                      py36_0  
+testpath                  0.3                      py36_0  
+tk                        8.5.18                        0  
+toolz                     0.8.2                    py36_0  
+tornado                   4.5.1                    py36_0  
+traitlets                 4.3.2                    py36_0  
+unicodecsv                0.14.1                   py36_0  
+unixodbc                  2.3.4                         0  
+vega                      0.5.0                     <pip>
+wcwidth                   0.1.7                    py36_0  
+werkzeug                  0.12.2                   py36_0  
+wheel                     0.29.0                   py36_0  
+widgetsnbextension        2.0.0                    py36_0  
+wrapt                     1.10.10                  py36_0  
+xerces-c                  3.1.4                         0  
+xlrd                      1.0.0                    py36_0  
+xlsxwriter                0.9.6                    py36_0  
+xlwings                   0.10.4                   py36_0  
+xlwt                      1.2.0                    py36_0  
+xz                        5.2.2                         1  
+yaml                      0.1.6                         0  
+zict                      0.1.2                    py36_0  
+zlib                      1.2.8                         3  
