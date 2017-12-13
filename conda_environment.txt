@@ -82,7 +82,7 @@ imagesize                 0.7.1                    py36_0
 ipykernel                 4.6.1                    py36_0    anaconda
 ipython                   5.3.0                    py36_0  
 ipython_genutils          0.2.0                    py36_0  
-ipywidgets                6.0.0                    py36_0  
+ipywidgets                7.0.5                    py36_0    conda-forge
 isort                     4.2.5                    py36_0  
 itsdangerous              0.24                     py36_0  
 jbig                      2.1                           0  
@@ -235,7 +235,7 @@ vega                      0.5.0                     <pip>
 wcwidth                   0.1.7                    py36_0  
 werkzeug                  0.12.2                   py36_0  
 wheel                     0.29.0                   py36_0  
-widgetsnbextension        2.0.0                    py36_0  
+widgetsnbextension        3.0.8                    py36_0    conda-forge
 wrapt                     1.10.10                  py36_0  
 xerces-c                  3.1.4                         0  
 xlrd                      1.0.0                    py36_0  
